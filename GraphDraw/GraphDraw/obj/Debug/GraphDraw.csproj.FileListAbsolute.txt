@@ -1,0 +1,11 @@
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\bin\Debug\GraphDraw.exe.config
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\bin\Debug\GraphDraw.exe
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\bin\Debug\GraphDraw.pdb
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.AssemblyReference.cache
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.SuggestedBindingRedirects.cache
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.Properties.Resources.resources
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.GenerateResource.cache
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.csproj.CoreCompileInputs.cache
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.exe
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDraw.pdb
+D:\Document1\UNIVERSITY\4\Practice\GraphDraw\GraphDraw\obj\Debug\GraphDrawSpace.GraphDraw.resources
